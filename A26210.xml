@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the victory obtain'd by the King in Ireland, on the first day of this instant July, 1690</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26210</idno>
+            <idno type="STC">Wing A421</idno>
+            <idno type="STC">ESTC R13151</idno>
+            <idno type="EEBO-CITATION">12934509</idno>
+            <idno type="OCLC">ocm 12934509</idno>
+            <idno type="VID">95745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the victory obtain'd by the King in Ireland, on the first day of this instant July, 1690</title>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.) :  30 x 42 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Chetham Library, Manchester, Eng.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boyne, Battle of the, 1690.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95745:1" rendition="simple:additions"/>
+            <head>An ACCOUNT OF THE VICTORY Obtain'd by the KING in IRELAND, On the Firſt day of this inſtant <hi>July,</hi> 1690. Publiſhed by Authority.</head>
+            <p>ON the 30th of <hi>June,</hi> 1690. by break of day, the King marched from his Camp at <hi>Ard<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> towards <hi>Drogheda,</hi> where he found the late King <hi>James</hi>'s Army encamped along the River <hi>Boyne,</hi> above the Town; but it being late before the Foot and Artillery arrived, His Majeſty could do no more that day than viſit the poſture of the Enemy, and the Fords thereabouts, which he found very difficult to paſs. His Majeſty encamped his Army in reach of their Cannon, which had almoſt given us the moſt fatal Blow in the World, His Majeſty receiving a Shot on His right Shoulder, the Wound was large, but not deep, raiſing only the Skin; and as ſoon as it was d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs'd, the King took Horſe, and continued on Horſeback for four hours. In the evening, His Majeſty commanded Count <hi>Schomberg</hi> with the right Wing of the Horſe, two Regiments of Dragoons of the left Wing, <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Brigade of Foot, and five ſmall Field-pieces, to go early the next morning, being the firſt of <hi>July</hi> to 2 or 3 other Fords about 3 miles higher than our Camp, and there endeavour to find a paſſage, and either attack the Enemy in the Flank, or at leaſt oblige them to decamp. The Count, upon his arrival, found eight Squadrons of the Enemy ready to receive him; but in a little time, and without much reſiſtance he beat them off, and paſſed the Ford, driving them before him, and drew up his Men on the other ſide, ready to march towards the Enemy as ſoon as he ſhould receive the King's Orders, to whom he ſent the news of it. Upon this, the Enemy detached a great number of their Troops, who put themſelves in order as if they would give Battel; His Majeſty under<g ref="char:EOLhyphen"/>ſtanding that the right Wing had paſſed the Ford, and was poſted over-againſt the Enemy commanded three Attacks to be made: The firſt at a good ford before a ſmall Village, which the Enemy had advantageouſly poſſeſt. At the ſecond, the Foot waded up to the Armpits; And as the third, the Horſes were fain to ſwim. The Dutch Regiment of Foot-Guards paſſed over firſt with the Water up to their Middle, bearing all the Enemies Fire, and not returning it till they came up cloſe to them. Hereupon, all that were in the Village, and behind the Ditches, gave back, but before the third Battalion of the ſaid Regiment had paſſed the Ford, five of the Enemies came up at the diſtance of a Pike's length to beat us back, but our Men fired ſo thick upon them, that they were forced to retire with the loſs of a great many Men, and one of their Colours. After this, our Men advancing beyond the Village, were twice vigorouſly attack'd by the Enemies Horſe, but all in vain. In the mean time, the <hi>Danes</hi> came up to the leſt, as alſo the Brigades <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>Meloniere</hi> to the right, the firſt were attack'd only by the Dragoons and the other by the Horſe, neither of them could do much, becauſe they had no Pikes. In the mean time, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Officers and others of the Enemies Life Guard coming fiercely up, were all killed here, who endeavou<g ref="char:EOLhyphen"/>ring to eſcape through the Village, unfortunately met with the Duke of <hi>Sch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mberg,</hi> who was there killed with a Piſtol Shot, but excepting this great Loſs, we have little to complain of. The
+<pb n="2" facs="tcp:95745:2"/> Guards above-mentioned, who have chiefly ſuffered, loſt but one Captain, and 4 other Officers hurt. In the other Regiments, Colonel <hi>Calimot</hi> is wounded, 2 French Captains killed; one <hi>Brandenourg</hi> Captain killed, and another wounded.</p>
+            <p>The King then marched with the few Horſe he had about him and with 17 Battalions of Foot, to the aſſiſtance of thoſe Troops which were engaged with the Enemy, who in the mean time had not advanced much towards our right Wing; whom His Majeſty reinforced with 12 Batta<g ref="char:EOLhyphen"/>lions of Foot, and 9 Squadrons of Horſe, and with them marched againſt the Enemy, who, without ſtaying till he came near them, retired immediately in great haſt, and as much confu<g ref="char:EOLhyphen"/>ſion. Our Horſe preſt on to overtake them, leaving even the Foot behind, and taking only five ſmall Field-pieces, which did ſome execution. After which our Dragoons, back'd by the Horſe, attack'd their Rere-Guard, at which time the King appearing with his Troops upon the Moun<g ref="char:EOLhyphen"/>tain, they all fled; the Country being full of Boggs and narrow Paſſages, and the Iriſh being naturally good Footmen, they eaſily eſcaped. Our Foot purſued them to <hi>Duleek,</hi> which is four miles diſtant from the place where we firſt attack'd them, and here the King ſtayed, the Horſe-ſtill purſuing them four miles further, until the night coming on parted them. The King then com<g ref="char:EOLhyphen"/>manded the Horſe to return to the ſame place where the Foot remained, and ſent to the Camp at <hi>Drogheda</hi> for the Tents and Baggage, intending to encamp there, and reſt his Troops for a day, they being much tired, and then continue his march in purſuit of the Enemy. We cannot as yet particularly ſay what the Enemy has loſt; we have many Priſoners, whoſe Names we know not. Lieutenaut-General <hi>Hamilton</hi> is one of them; and he ſays, That the Lord <hi>Carling ford</hi> and Colonel <hi>Parker</hi> are killed. We have taken many Chariots and Tents, much Cannon, Baggage, Ammu<g ref="char:EOLhyphen"/>nition, and Arms, the number whereof we do not exactly know. His Majeſty has commanded the Town of <hi>Drogheda</hi> to be attack'd, in which there is a Gariſon of about 3000 men.</p>
+            <div type="part">
+               <head>Some other Particulars mentioned in a Letter dated at <hi>Duleek, 3</hi> Miles South of <hi>Drogheda,</hi> and 17 Miles from <hi>Dublin, July 2. 1690.</hi>
+               </head>
+               <p>WE have taken Lieutenant General <hi>Hamilton,</hi> and do believe, that the Earl of <hi>Carling<g ref="char:EOLhyphen"/>ford</hi> and Lord <hi>Dungan</hi> are killed; we have taken 8 or 9 of the Enemies great Guns, 5 or 6000 of their Arms, 70 or 80 Wagons, beſides great ſtore of Tents and Baggage, ſome Plate, <hi>&amp;c.</hi> Near this place was the greateſt Struggle, and the greateſt number of Arms taken, thoſe of two Regiments being found here laid down in perfect Order; their Horſe made a good Retreat, conducted by the Count <hi>de Lauzune.</hi> The King was in the Head of all this Action, purſuing the Enemy from Hill to Hill for 7 miles about, and came not hither till about 10 at Night. His Majeſty has given Orders for ſparing all that lay down their Arms; and juſt now a Scotch Soldier is to be hanged in the face of the Army, for killing 7 poor Wretches that were not able to eſcape out of <hi>Ardee.</hi> We have taken ſome Inferior Officers, and killed others, but have loſt the Duke of <hi>Schomberg<g ref="char:punc">▪</g>
+                  </hi> who was ſlain yeſterday about Noon. Thirty of the Dutch Regiment of Foot-Guards having paſſed the <hi>Boyne</hi> at the Ford, about a mile above <hi>Tredagh,</hi> his Grace rode after them with a ſmall Attendance; the Regiments of <hi>Cambon</hi> and <hi>Hanmer,</hi> with ſome other, fol<g ref="char:EOLhyphen"/>lowed him. The Duke had not above 300 behind him when firſt the Enemies Horſe made a deſpe<g ref="char:EOLhyphen"/>rate Charge, in which he received two Cuts in the forehead, but not very conſiderable, the French behind him firing very fiercely; it is thought he received from one of them the Wound, of which he dyed. A little before, Dr. <hi>Walker,</hi> who behaved himſelf ſo gallantly in the Defence of <hi>Londonderry,</hi> having paſſed the Ford, received a Wound in the Belly, and dyed of it. The buſineſs of this day had often ſtopp'd, if His Majeſty had not with great Vigor purſued the Enemy, and by his own Example encouraged his Men. Laſt night he ſtood ſo near the Enemy when they were drawn up, that a Bullet from a long Gun touched his Boot, and ſhot a Horſe that was next to him in the Leg. The Wound in his Shoulder was dreſs'd this morning, and is in a fair way of being healed in two days. His Majeſty has ſent Colonel <hi>de la Melloniere</hi> to ſummon <hi>Drogheda,</hi> and to let them know, That if they force him to bring his Cannon, they muſt expect no Quarter. We hear, that one of the Regiments in Gariſon there conſiſts of new-raiſed Men; if we gain the place, we expect great Steres of all ſorts, which are laid up there.</p>
+               <p>
+                  <hi>P. S.</hi> News is juſt now come that the late King <hi>James</hi> retired yeſterday to <hi>Dublin,</hi> and that he has quitted that place to day, and is gone towards <hi>Athlone</hi> and <hi>Connaught.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edward Jones</hi> in the <hi>Savoy,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
